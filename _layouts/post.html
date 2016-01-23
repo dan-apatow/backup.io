@@ -9,9 +9,10 @@ layout: default
     {{ content }}
   </div>
   
+   <div class="date">
   <!-- Whitespace added for readability -->
 {% assign m = page.date | date: "%-m" %}
-Escrito el {{ page.date | date: "%-d" }}
+Publicado: {{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Enero
   {% when '2' %}Febrero
@@ -27,7 +28,7 @@ Escrito el {{ page.date | date: "%-d" }}
   {% when '12' %}Diciembre
 {% endcase %}
 {{ page.date | date: "%Y" }}
-  
+  </div>
 
   <div class="date">
     Escrito el {{ page.date | date: "%e %B, %Y" }}
