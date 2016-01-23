@@ -11,7 +11,7 @@ layout: default
   
   <!-- Whitespace added for readability -->
 {% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+Escrito el {{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Enero
   {% when '2' %}Febrero
@@ -26,7 +26,7 @@ layout: default
   {% when '11' %}Noviembre
   {% when '12' %}Diciembre
 {% endcase %}
-Escrito el {{ page.date | date: "%Y" }}
+{{ page.date | date: "%Y" }}
   
 
   <div class="date">
