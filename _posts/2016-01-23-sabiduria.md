@@ -3,9 +3,7 @@ layout: post
 title: Sabiduria
 ---
 
-##Conocimiento
-
-Es saber que el tomate ws una fruta ...
+##Conocimiento Es saber que el tomate es una fruta ...
 
 <!--more-->
 
