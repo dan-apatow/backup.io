@@ -8,6 +8,6 @@ Lo que siempre quisiste decir !
 
 ### Por el tal Dan
 
-Espermaos tu opinion !
+Esperamos tu opinion !
 
 
