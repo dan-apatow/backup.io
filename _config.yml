@@ -14,7 +14,7 @@ avatar: http://res.cloudinary.com/escabox/image/upload/v1454453035/apatows/city-
 #
 # Flags below are optional
 #
-paginate: 4
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
