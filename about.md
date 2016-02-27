@@ -11,6 +11,8 @@ Lo que siempre quisiste decir !
 Esperamos tu opinion !
 
 
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+
 <div class="w3-container w3-orange">
   <h1>W3.CSS Demo</h1>
   <p>Resize this responsive page!</p>
