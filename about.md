@@ -15,23 +15,20 @@ permalink: /about/
 
 <div class="w3-third">
   <h2>Verdad</h2>
-  <p>London is the capital city of England.</p>
-  <p>It is the most populous city in the United Kingdom,
-  with a metropolitan area of over 13 million inhabitants.</p>
+  <p>Es solamente una opinion limitada .</p>
+  <p>de nuestro limitado universo.</p>
 </div>
 
 <div class="w3-third">
   <h2>Realidad</h2>
-  <p>Paris is the capital of France.</p>
-  <p>The Paris area is one of the largest population centers in Europe,
-  with more than 12 million inhabitants.</p>
+  <p> si la realidad no existe.</p>
+  <p>porque solo es un marco de referencia para nuestra verdad.</p>
 </div>
 
 <div class="w3-third">
   <h2>Interpretacion</h2>
-  <p>Tokyo is the capital of Japan.</p>
-  <p>It is the center of the Greater Tokyo Area,
-  and the most populous metropolitan area in the world.</p>
+  <p>de lo que sabemos y conocemos.</p>
+  <p>de nosotros mismos y los demas.</p>
 </div>
 
 </div>
