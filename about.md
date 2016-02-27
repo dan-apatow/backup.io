@@ -14,8 +14,8 @@ Esperamos tu opinion !
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 
 <div class="w3-container w3-orange">
-  <h1>W3.CSS Demo</h1>
-  <p>Resize this responsive page!</p>
+  <h1>Por el tal dan...</h1>
+  <p>Muchos lo piensan pero, lo dicen ?</p>
 </div>
 
 <div class="w3-row-padding">
